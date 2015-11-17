@@ -10,7 +10,7 @@ looking to get their feet wet with ZF2.
 Installation using Composer
 ---------------------------
 
-The easiest way to create a new ZF2 project is to use [Composer](https://getcomposer.org/). If you don't have it already installed, then please install as per the [documentation](https://getcomposer.org/doc/00-intro.md).
+The easiest way to create a new ZF2 project is to use [Composer](https://getcomposer.org/). If you do not have it already installed, then please install as per the [documentation](https://getcomposer.org/doc/00-intro.md).
 
 
 Create your new ZF2 project:
